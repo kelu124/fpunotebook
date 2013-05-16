@@ -1,0 +1,271 @@
+januvia,chemical
+sitagliptin,chemical
+actos,chemical
+pioglitazone,chemical
+avandia,chemical
+troglitazone,chemical
+thiazolidinediones,chemical
+rezulin,chemical
+rosiglitazone,chemical
+sulfonylurea compounds,chemical
+glipizide,chemical
+glyburide,chemical
+sibutramine,chemical
+meridia,chemical
+phentermine,chemical
+xenical,chemical
+orlistat,chemical
+repaglinide,chemical
+starlix,chemical
+meglitinide,chemical
+prandin,chemical
+glucagen,chemical
+first generation sulfonylurea,chemical
+tolbutamide,chemical
+chlorpropamide,chemical
+acetohexamide,chemical
+tolazamide,chemical
+dexfenfluramine,chemical
+redux,chemical
+biguanides,chemical
+glucophage,chemical
+metformin,chemical
+chromium picolinate,chemical
+parlodel,chemical
+dostinex,chemical
+cabergoline,chemical
+bromocriptine,chemical
+methimazole,chemical
+thioamides,chemical
+tapazole,chemical
+glyset,chemical
+miglitol,chemical
+insulin,pharmacology
+januvia,pharmacology
+sitagliptin,pharmacology
+pramlintide,pharmacology
+symlin,pharmacology
+actos,pharmacology
+pioglitazone,pharmacology
+avandia,pharmacology
+troglitazone,pharmacology
+thiazolidinediones,pharmacology
+rezulin,pharmacology
+rosiglitazone,pharmacology
+synthroid,pharmacology
+sulfonylurea compounds,pharmacology
+glipizide,pharmacology
+glyburide,pharmacology
+prednisolone,pharmacology
+adrenal cortex hormones,pharmacology
+betamethasone,pharmacology
+dexamethasone,pharmacology
+hydrocortisone,pharmacology
+methylprednisolone,pharmacology
+cortisone,pharmacology
+sibutramine,pharmacology
+meridia,pharmacology
+phentermine,pharmacology
+xenical,pharmacology
+orlistat,pharmacology
+hypoglycemic agents,pharmacology
+repaglinide,pharmacology
+starlix,pharmacology
+meglitinide,pharmacology
+nateglinide,pharmacology
+prandin,pharmacology
+cytomel,pharmacology
+triiodothyronine,pharmacology
+insulin,pharmacology
+exubera,pharmacology
+insulin,pharmacology
+insulin,pharmacology
+humalog,pharmacology
+insulin,pharmacology
+humulin insulin,pharmacology
+insulin lispro,pharmacology
+novolin,pharmacology
+novolog,pharmacology
+insulin,pharmacology
+byetta,pharmacology
+exenatide,pharmacology
+insulin,pharmacology
+growth hormone,pharmacology
+somatropin,pharmacology
+glucagen,pharmacology
+glucagon,pharmacology
+first generation sulfonylurea,pharmacology
+tolbutamide,pharmacology
+chlorpropamide,pharmacology
+acetohexamide,pharmacology
+tolazamide,pharmacology
+dexfenfluramine,pharmacology
+redux,pharmacology
+biguanides,pharmacology
+glucophage,pharmacology
+metformin,pharmacology
+fludrocortisone,pharmacology
+florinef,pharmacology
+chromium picolinate,pharmacology
+dopamine agonists,pharmacology
+parlodel,pharmacology
+dostinex,pharmacology
+cabergoline,pharmacology
+bromocriptine,pharmacology
+antithyroid agents,pharmacology
+methimazole,pharmacology
+propylthiouracil,pharmacology
+tapazole,pharmacology
+glyset,pharmacology
+miglitol,pharmacology
+precose,pharmacology
+acarbose,pharmacology
+alpha glucoside inhibitor,pharmacology
+basal insulin,pharmacology
+insulin glargine,pharmacology
+lantus,pharmacology
+insulin detemir,pharmacology
+levemir,pharmacology
+appetite depressants,pharmacology
+anti obesity agents,pharmacology
+thyrotropin releasing hormone,pharmacology
+triiodothyronine,pharmacology
+thyroxine,pharmacology
+thyrotropin,pharmacology
+reverse triiodothyronine,pharmacology
+prolactin,pharmacology
+parathyroid hormone,pharmacology
+glucose,pharmacology
+turner syndrome,abnormalities
+klinefelter syndrome,abnormalities
+female pseudohermaphroditism,abnormalities
+ambiguous genitalia,abnormalities
+prader willi syndrome,abnormalities
+congenital hypothyroidism,abnormalities
+inborn errors of metabolism,abnormalities
+arachnodactyly,abnormalities
+sotos syndrome,abnormalities
+dwarfism,abnormalities
+achondroplasia,abnormalities
+congenital adrenal hyperplasia,abnormalities
+parathyroid gland,organ
+thyroid gland,organ
+adrenal glands,organ
+decreased thyroid stimulating hormone level,finding
+premature development of the breasts,finding
+obesity adverse event,finding
+obesity monitoring status,finding
+obesity adverse event,finding
+blood glucose decreased,finding
+tall stature,finding
+short stature,finding
+tanner boys genital development stage,finding
+tanner girls pubic hair,finding
+tanner girls breast development stage,finding
+impaired fasting glycaemia,finding
+subacute lymphocytic thyroiditis,disease
+riedel s thyroiditis,disease
+euthyroid sick syndromes,disease
+toxic multinodular goiter,disease
+multinodular goiter,disease
+non toxic multinodular goiter,disease
+hypothyroidism,disease
+myxedema,disease
+hyperthyroidism,disease
+hashimoto disease,disease
+hyperthyroidism,disease
+thyrotoxicosis,disease
+graves disease,disease
+goiter,disease
+colloid goiter,disease
+endemic goiter,disease
+gynecomastia familial,disease
+gynecomastia,disease
+hernia of abdominal cavity,disease
+myxedema coma,disease
+turner syndrome,disease
+thyroid crisis,disease
+precocious puberty,disease
+precocious puberty,disease
+hypogonadotropic hypogonadism,disease
+kallmann syndrome,disease
+isolated lutropin deficiency disorder ,disease
+primary hypogonadism,disease
+hypogonadism,disease
+male pseudohermaphroditism,disease
+klinefelter syndrome,disease
+female pseudohermaphroditism,disease
+premature adrenarche,disease
+diabetic nephropathy,disease
+acute thyroiditis,disease
+thyroiditis,disease
+adrenal mass,disease
+hyperprolactinemia,disease
+acromegaly,disease
+gigantism,disease
+hyperprolactinemia,disease
+galactorrhea associated with childbirth,disease
+childhood obesity,disease
+hyperparathyroidism,disease
+hyperparathyroidism primary,disease
+obesity,disease
+hypoparathyroidism,disease
+obesity,disease
+postpartum thyroiditis,disease
+obesity,disease
+obesity,disease
+congenital hypothyroidism,disease
+ornithine carbamoyltransferase deficiency,disease
+hyperornithinemia,disease
+diabetic neuropathies,disease
+phenylketonurias,disease
+methylmalonic acidemia,disease
+inborn errors of metabolism,disease
+hereditary fructose intolerance syndrome,disease
+medium chain acyl coenzyme a dehydrogenase deficiency,disease
+homocystinuria,disease
+galactosemias,disease
+amaurotic familial idiocy,disease
+tay sachs disease,disease
+mucopolysaccharidoses,disease
+mucolipidoses,disease
+gangliosidoses,disease
+lysosomal storage diseases,disease
+glycoprotein storage disorder,disease
+sphingolipidoses,disease
+glycogen storage disease,disease
+lipid metabolism disorders,disease
+disorder of carbohydrate metabolism,disease
+hyperglycemia,disease
+thyroiditis suppurative,disease
+subacute thyroiditis,disease
+arachnodactyly,disease
+marfan syndrome,disease
+sotos syndrome,disease
+dwarfism,disease
+achondroplasia,disease
+wasting syndrome,disease
+diabetic retinopathy,disease
+android obesity,disease
+endocrine disorder related to puberty,disease
+diabetes mellitus insulin dependent,disease
+diabetes mellitus non insulin dependent,disease
+diabetes mellitus,disease
+metabolic syndrome,disease
+microvascular angina,disease
+impaired glucose tolerance,disease
+diabetic ketoacidosis,disease
+granuloma annulare,disease
+other specified disorders of parathyroid gland,disease
+thyroid diseases,disease
+acanthosis nigricans,disease
+polyendocrinopathies autoimmune,disease
+autoimmune syndrome type ii polyglandular,disease
+cushing syndrome,disease
+congenital adrenal hyperplasia,disease
+conn syndrome,disease
+hyperaldosteronism,disease
+adrenal cortical hypofunction,disease
+addison disease,disease
+addisonian crisis,disease
+adrenal gland hypofunction,disease

@@ -1,0 +1,6 @@
+mysql -u root -p
+
+
+
+ CREATE DATABASE EndoDump;
+CREATE USER kelu IDENTIFIED BY 'MySQL';

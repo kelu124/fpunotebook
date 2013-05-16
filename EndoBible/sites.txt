@@ -1,0 +1,48 @@
+www.endobible.com/symptoms/
+
+=> scrapy crawl example.com --set FEED_URI=food.xml --set FEED_FORMAT=xml
+
+=> scrapy crawl endo --set FEED_URI=endo.xml --set FEED_FORMAT=xml
+
+
+
+Conditions:
+hxs.select('//ul[@class="pathway"]/li') ## pour les liens du haut
+hxs.select('//ul[@class="pathway"]/li/a/@href').extract() ## pour les liens
+hxs.select('//h2[@class="question"]/text()').extract() # isole les questions
+
+
+hxs.select('//div[@class="halfLeft"]/ul/li/a/text()').extract() # puis la meme pour right
+
+
+*******************************************************
+# retourner l'ensemble des h2
+hxs.select('//following-sibling::*/h2').extract()
+
+## selection des li
+h = hxs.select('//h2')
+j = h[1].select('following-sibling::ul')
+j[1].select('li')
+
+
+*******************************************************
+
+## array des questions
+hxs.select('//div[@class="contentBox"]/h2[@class="question"]/text()').extract() 
+## array des reponses
+hxs.select('//div[@class="contentBox"]/div[@class="answer"]/p/text()').extract()
+
+# Recupere les exams
+hxs.select('//h2/text()').extract()
+# et les reponses
+hxs.select('//div[@class="contentBox"]/div[@class="answer"]').extract()
+
+# Recupere les investigations
+hxs.select('//h2/text()').extract()
+# et les reponses
+hxs.select('//div[@class="contentBox"]/div[@class="answer"]').extract()
+
+# la meme pour les investigations
+hxs.select('//h2/text()').extract()
+hxs.select('//div[@class="contentBox"]/div[@class="answer"]').extract()
+

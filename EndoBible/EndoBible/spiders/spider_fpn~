@@ -1,0 +1,12 @@
+http://www.fpnotebook.com/endo/Lab/index.htm
+
+# URL :
+# Titre: h2 TitleMedWhite
+# Categorie : 
+ Liste des titres en gras : hxs.select("//div[@id='toc_chap']/ul/li/text()").extract()
+# Categorie liens : 
+ ItemName: hxs.select("//div[@id='toc_chap']/ul/li/ul/li/a/text()").extract()
+ ItemLink: hxs.select("//div[@id='toc_chap']/ul/li/ul/li/a/@href").extract()
+
+
+

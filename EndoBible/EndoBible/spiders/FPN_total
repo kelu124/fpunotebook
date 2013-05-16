@@ -1,0 +1,32 @@
+== 1. PARSER_Total ( http://www.fpnotebook.com/Endo/ )
+	URLs = hxs.select("//dt/a/@href").extract()
+	ChapterNames = hxs.select("//dt/a/text()").extract()
+
+
+== 2. PARSER_Chap ( http://www.fpnotebook.com/Endo/ )
+# Titre: h2 TitleMedWhite
+	Source
+# Categorie : 
+	Liste des titres en gras : hxs.select("//div[@id='toc_chap']/ul/li/text()").extract()
+# Categorie liens : 
+	ItemName: hxs.select("//div[@id='toc_chap']/ul/li/ul/li/a/text()").extract()
+	ItemLink: hxs.select("//div[@id='toc_chap']/ul/li/ul/li/a/@href").extract()
+
+== 3. PARSER_Chap ( http://www.fpnotebook.com/Endo/ )
+# Titre h2 medwhite
+	hxs.select("//h2[@class='TitleMedWhite']/text()").extract()
+# Aka
+	hxs.select("//div[@id='pageTitleBar']/em/text()").extract()
+# Les titres 
+	hxs.select("//div[@id='mainContent_text']/ol/li/text()").extract()
+
+	Pour les sous titres 
+		hxs.select("//div[@id='mainContent_text']/ol/li/ol")[1].extract()
+
+	Identifiant:
+		hxs.select("//div[@class='umls']/table/tr/th/h3/a/i/text()").extract() pour l'identifiant
+		hxs.select("//div[@class='umls']/table/tr/th/h3//text()").extract()	pour le nom	
+
+
+
+	

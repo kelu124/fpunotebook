@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items><item><FP_SubChap_name><value>Endocrinology: Adrenal Disease</value></FP_SubChap_name><FP_SubChap_LinkTo><value>C0001623</value><value>C0001403</value><value>C0151467</value><value>C0405580</value></FP_SubChap_LinkTo><FP_SubChap_url>http://www.fpnotebook.com/Endo/Adrenal/index.htm</FP_SubChap_url><FP_Condition_ID><value>Adrenal gland hypofunction  (</value><value>C0001623</value><value>)
+</value><value>Addison Disease  (</value><value>C0001403</value><value>)
+</value><value>Addisonian crisis  (</value><value>C0151467</value><value>)
+</value><value>Adrenal cortical hypofunction  (</value><value>C0405580</value><value>)
+</value></FP_Condition_ID><FP_Condition_name><value>Addison's Disease</value></FP_Condition_name></item><item><FP_SubChap_name><value>Endocrinology: Adrenal Disease</value></FP_SubChap_name><FP_SubChap_LinkTo><value>C0020428</value><value>C1384514</value></FP_SubChap_LinkTo><FP_SubChap_url>http://www.fpnotebook.com/Endo/Adrenal/index.htm</FP_SubChap_url><FP_Condition_ID><value>Hyperaldosteronism  (</value><value>C0020428</value><value>)
+</value><value>Conn Syndrome  (</value><value>C1384514</value><value>)
+</value></FP_Condition_ID><FP_Condition_name><value>Hyperaldosteronism</value></FP_Condition_name></item><item><FP_SubChap_name><value>Endocrinology: Adrenal Disease</value></FP_SubChap_name><FP_SubChap_LinkTo><value>C0221154</value><value>C0031511</value></FP_SubChap_LinkTo><FP_SubChap_url>http://www.fpnotebook.com/Endo/Adrenal/index.htm</FP_SubChap_url><FP_Condition_ID><value>Paroxysmal hypertension  (</value><value>C0221154</value><value>)
+</value><value>Pheochromocytoma  (</value><value>C0031511</value><value>)
+</value></FP_Condition_ID><FP_Condition_name><value>Pheochromocytoma</value></FP_Condition_name></item><item><FP_SubChap_name><value>Endocrinology: Adrenal Disease</value></FP_SubChap_name><FP_SubChap_LinkTo><value>C0010481</value></FP_SubChap_LinkTo><FP_SubChap_url>http://www.fpnotebook.com/Endo/Adrenal/index.htm</FP_SubChap_url><FP_Condition_ID><value>Cushing Syndrome  (</value><value>C0010481</value><value>)
+</value></FP_Condition_ID><FP_Condition_name><value>Cushing's Disease</value></FP_Condition_name></item></items>
